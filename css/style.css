@@ -8,3 +8,21 @@ body
 .reasons {
   font-weight: bold;
 }
+header
+{
+  background:#6dc21d;
+  color:#000000;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#008a1a 3px solid;
+}
+
+header #logo
+{
+  float:left;
+}
+
+header #logo h1
+{
+  margin:0;
+}
