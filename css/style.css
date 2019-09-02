@@ -5,3 +5,6 @@ body
   margin:120;
   background-color:#008B0F;
 }
+.reasons {
+  font-weight: bold;
+}
