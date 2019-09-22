@@ -3,7 +3,7 @@ body
   font: 28px/1.5 Arial, Helvetica, sans-serif;
   padding:0;
   margin:0;
-  background-color:#008B0F;
+  background-image: radial-gradient(red, yellow, green);
 }
 .container
 {
@@ -16,11 +16,11 @@ body
 }
 header
 {
-  background:#6dc21d;
+  background:#d68787;
   color:#000000;
   padding-top:30px;
   min-height:70px;
-  border-bottom:#008a1a 3px solid;
+  border-bottom:#780404 3px solid;
 }
 
 header #logo
